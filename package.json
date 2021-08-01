@@ -1,0 +1,23 @@
+{
+  "name": "personal-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xBOBOYx/portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xBOBOYx/portfolio/issues"
+  },
+  "homepage": "https://github.com/xBOBOYx/portfolio#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.7"
+  }
+}
